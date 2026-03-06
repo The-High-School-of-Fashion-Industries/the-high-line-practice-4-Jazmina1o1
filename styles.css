@@ -36,18 +36,7 @@ article{
     box-shadow: 0 0 10px rgba(17, 255, 243, 0.185);
     border-radius: 8px;
 }
-article h2{
-    color: #1B7F7A;
-    font-size: 28px;
-    margin-right: 350px;
-    text-align: left;
-    
-}
-article p{
-    color: #353e42;
-    font-size: 18px;
-    line-height: 1.6;
-}
+
 footer{
     color: #4C4A59;
     padding: 10px 0;
@@ -57,7 +46,7 @@ footer{
     font-size: 100%;
 }
 a{
-    color: #1B7F7A;
+    color: #1f807b;
     text-decoration: none;
     display: block;
     text-align: center;
@@ -76,3 +65,14 @@ img {
     border-radius: 8px;
     
 }
+div.scroll-container {
+  background-color: #10a79a;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+
